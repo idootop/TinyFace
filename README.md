@@ -71,7 +71,7 @@ options:
                         Number of worker threads for parallel processing
 ```
 
-## Who use TinyFace
+## Projects using TinyFace
 
 - [MagicMirror](https://github.com/idootop/MagicMirror): Instant AI Face Swap, Hairstyles & Outfits — One click to a brand new you! 一键 AI 换脸、发型、穿搭，发现更美的自己 ✨
 
